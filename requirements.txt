@@ -40,3 +40,4 @@ channels-redis==4.2.0
 # Deployment & Environment
 python-decouple==3.8
 requests==2.31.0
+django-countries==7.5.1
